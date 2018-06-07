@@ -1,5 +1,5 @@
 
-### 1行 try catch pass [参考](https://code.i-harness.com/ja/q/62bb1c)
+### 1行 try catch pass [link](https://code.i-harness.com/ja/q/62bb1c)
 ```
 from contextlib import suppress
 
@@ -9,7 +9,7 @@ with suppress(IDontLikeYouException, YouAreBeingMeanException):
 ---
 
 
-### Python で多重ループを回避する [参考](https://qiita.com/QUANON/items/bce7495be0e350911e66)
+### Python で多重ループを回避する [link](https://qiita.com/QUANON/items/bce7495be0e350911e66)
 ```
 from itertools import product
 
@@ -22,7 +22,7 @@ for year, i, char in product(years, integers, chars):
 ```
 ---
 
-### Python logging handler [link](https://symfoware.blog.fc2.com/blog-entry-885.html)
+### logging handler [link](https://symfoware.blog.fc2.com/blog-entry-885.html)
 
-### Python datetime [link](https://qiita.com/motoki1990/items/8275dbe02d5fd5fa6d2d)
+### datetime [link](https://qiita.com/motoki1990/items/8275dbe02d5fd5fa6d2d)
 
