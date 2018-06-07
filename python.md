@@ -23,3 +23,6 @@ for year, i, char in product(years, integers, chars):
 ---
 
 ### Python logging handler [link](https://symfoware.blog.fc2.com/blog-entry-885.html)
+
+### Python datetime [link](https://qiita.com/motoki1990/items/8275dbe02d5fd5fa6d2d)
+
