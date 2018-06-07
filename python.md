@@ -21,3 +21,5 @@ for year, i, char in product(years, integers, chars):
   print(year, i, char)
 ```
 ---
+
+### Python logging handler [link](https://symfoware.blog.fc2.com/blog-entry-885.html)
